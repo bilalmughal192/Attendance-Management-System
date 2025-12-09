@@ -1,0 +1,71 @@
+button:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+}
+.header{
+   background-color:rgb(10, 100, 70);
+}
+
+.leftSide img{
+   width: 100%;
+}
+.amsTag:hover{
+   cursor: pointer;
+   text-decoration: none;
+   color: White;
+}
+
+.profileSetting:hover{
+cursor: pointer;
+text-decoration: none;
+}
+.profilePic{
+   border-radius: 18px;
+   width: 30px;
+   height: 30px;
+   object-position: center;
+}
+.rightSide{
+   background-color: #dcdddd;
+}
+.empDetail p{
+   font-size: 14px;
+}
+.empDetail{
+   background-color:rgb(201, 201, 201);
+}
+.social-link{
+   width: 20px;
+   height: 20px;
+}
+.bg-warning{
+   background-color: rgb(255, 223, 167);
+}
+
+.bgcGreen{
+background-color: rgb(163, 252, 190);
+}
+.bgcRed{
+background-color: rgb(243, 150, 150);
+}
+.bgcYellow{
+background-color: rgb(255, 223, 167);
+}
+.rowstart{
+   margin-top: 10px;
+   border-top: 1px solid black;
+}
+.empHeading p,.shiftHeading p{
+   font-size: 24px; 
+}
+.empHeading, .shiftHeading,.attheading,.logheading{
+background-color: #ffffff;
+border-radius: 5px;
+}
+.shiftsSec,.empSec,.leaveSec,.attSec,.machineSec,.usersSec,.deptSec,.desgSec{
+   min-height: 90vh;
+}
+
+.logo{
+   height: 6vh;
+}
